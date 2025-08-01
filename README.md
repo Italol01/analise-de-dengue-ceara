@@ -5,22 +5,28 @@ Este projeto realiza uma análise preditiva dos casos de dengue no estado do Cea
 ## 📊 Resultados da Análise
 
 ### Análise Inicial
-![Análise Inicial](output.png)
+<img width="1384" height="790" alt="output" src="https://github.com/user-attachments/assets/6378a185-9d0f-41f3-969e-f882a4344171" />
+
 
 ### Tendência dos Casos
-![Tendência](output1.png)
+<img width="1590" height="786" alt="output1" src="https://github.com/user-attachments/assets/e3e40ee8-0a5a-4e94-8bea-ad0f351891c0" />
+
 
 ### Distribuição Geográfica
-![Distribuição Geográfica](output2.png)
+<img width="1366" height="936" alt="output2" src="https://github.com/user-attachments/assets/87f67e4b-e5f0-47b6-ba89-c97d67e1dd08" />
+
 
 ### Análise Temporal dos Casos
-![Análise Temporal](output3.png)
+<img width="1351" height="972" alt="output3" src="https://github.com/user-attachments/assets/1220ff2d-7d4b-42f6-886d-4a5e8dba4228" />
+
 
 ### Teste do Modelo KNN
-![Teste do Modelo KNN](teste%20do%20modelo%20knn.png)
+<img width="1123" height="450" alt="teste do modelo knn" src="https://github.com/user-attachments/assets/71e08a4f-f83c-432c-a820-f41d933a93b5" />
+
 
 ### Previsão para os próximos 6 meses
-![Previsão 6 Meses](grafico_previsao_6meses.png)
+<img width="2964" height="1763" alt="grafico_previsao_6meses" src="https://github.com/user-attachments/assets/69ac0926-21bf-448c-9ae3-ed8c8fb69931" />
+
 
 
 ## 📁 Estrutura do Projeto
